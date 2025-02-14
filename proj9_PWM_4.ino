@@ -1,5 +1,3 @@
-//Mini pianinko wykorzystujące sygnał PWM na buzzerze i przerwania zewnętrzne wyzwalane przez piny PCINT
-
 #include <avr/io.h>
 #include <util/delay.h>
 #include <string.h>
